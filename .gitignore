@@ -1,3 +1,11 @@
+# Ignore executable files
+*.exe
+
+# Task 1
 stack.exe
 linkedlist.exe
-*.exe
+
+# Task 2
+binarysearch.exe
+mergesort.exe
+knapsack.exe
